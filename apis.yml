@@ -25,6 +25,8 @@ url: >-
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/new-york-community-bancorp-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/new-york-community-bancorp-inc-
   - type: Website
